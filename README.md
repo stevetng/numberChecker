@@ -1,0 +1,1 @@
+A fun project creating a neural network from scratch based off of https://www.youtube.com/watch?v=w8yWXqWQYmU&list=WL&index=3
