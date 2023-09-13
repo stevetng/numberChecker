@@ -1,4 +1,4 @@
-A fun project creating a neural network from scratch based off of https://www.youtube.com/watch?v=w8yWXqWQYmU&list=WL&index=3
+A fun project creating a neural network from scratch based off of https://www.youtube.com/watch?v=w8yWXqWQYmU&list=WL&index=3 and making tweaks to optimize the performance
 
 Lessons Learned:
 1. The process of converting a data set into pixels and values which we run a model off of
